@@ -32,8 +32,6 @@ For users interested in the theory, an expandable **More Info** section provides
 The system implements the following discrete-time model:
 
 y[n] = x[n] + a · x[n − D]
-
-Where:
    - D is the delay in samples  
    - a is the amplitude (gain) applied to the delayed signal  
 
