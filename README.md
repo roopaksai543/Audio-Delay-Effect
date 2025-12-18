@@ -34,8 +34,8 @@ The system implements the following discrete-time model:
 y[n] = x[n] + a · x[n − D]
 
 Where:
-- D is the delay in samples  
-- a is the amplitude (gain) applied to the delayed signal  
+   - D is the delay in samples  
+   - a is the amplitude (gain) applied to the delayed signal  
 
 This system is a linear time-invariant (LTI) finite impulse response (FIR) filter. The impulse and frequency response plots are generated directly from this formulation.
 
