@@ -4,7 +4,7 @@ Audio Delay Effect is a web-based digital signal processing demo that applies a 
 
 Upload a WAV file, adjust the delay time and amplitude, and immediately hear the processed result, with optional signal analysis available.
 
-Live Demo:[Audio Delay Effect](https://audio-delay-effect-pt3y2klpcw9nflwmia2oty.streamlit.app/#audio-delay-effect-dsp-demo)
+Live Demo: [Audio Delay Effect](https://audio-delay-effect-pt3y2klpcw9nflwmia2oty.streamlit.app/#audio-delay-effect-dsp-demo)
 
 ## Description
 
