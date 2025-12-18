@@ -11,7 +11,7 @@ def delay_effect(x, D, a):
     y[D:D+len(x)] += a * x
     return y
 
-st.title("Audio Delay Effect (DSP Demo)")
+st.title("Audio Delay Effect")
 
 uploaded_file = st.file_uploader("Upload a WAV file", type=["wav"])
 
