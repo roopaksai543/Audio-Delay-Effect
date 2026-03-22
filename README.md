@@ -42,5 +42,12 @@ This project is built entirely in Python and deployed as a cloud-hosted web appl
 
 The repository is designed to be fully self-contained and deployable directly from GitHub without requiring any local setup.
 
-Built by **Roopaksai Sivakumar**  
-Computer Engineering @ UC Irvine
+
+<p align="center">
+  <sub>
+    <i>
+      Built by <b>Roopaksai Sivakumar</b><br>
+      Computer Engineering @ UC Irvine
+    </i>
+  </sub>
+</p>
